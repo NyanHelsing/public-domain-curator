@@ -1,0 +1,12 @@
+{
+  "name": "client",
+  "dependencies": {
+    "dropzone": "^4.3.0",
+    "hint.css": "^2.3.2",
+    "font-awesome": "~4.6.3",
+    "bootstrap": "~3.3.5",
+    "bootstrap-datepicker": "^1.6.4",
+    "osf-style": "https://github.com/CenterForOpenScience/osf-style.git#48197d234baf07c321c56edfd9f48b5624374453",
+    "bootstrap-sass": "^3.3.6"
+  }
+}
